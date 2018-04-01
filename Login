@@ -1,1 +1,5 @@
 #this files contains Login details 
+
+Ranjith = admin
+Raju  = tester
+Dure  = developer
